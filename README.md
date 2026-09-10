@@ -1,7 +1,7 @@
 # Comment Category Prediction
 
-Machine learning project for the **Kaggle Comment Category Prediction Challenge**, finished as part of the **MLP (Machine Learning Practice) Project coursework for the BS Data Science from IIT Madras**.
-Completed in Term 4 of the Diploma Level: **Jan 2026 - May 2026**
+Machine learning project for the **Kaggle Comment Category Prediction Challenge**, finished as part of the **MLP (Machine Learning Practice) Project coursework for the BS Data Science from IIT Madras**.<br>
+Completed in Term 4 of the Diploma Level: **Jan 2026 - May 2026**.
 
 Competition Link: https://www.kaggle.com/competitions/comment-category-prediction-challenge
 ## Overview
@@ -78,6 +78,7 @@ Hyperparameter tuning was performed on XGBoost, Random Forest, Logistic Regresso
 The results for the 4 best performing models are as follows:
 
 |                   |Train F1 | Val F1 |Overfit Gap|
+|-------------------|---------|--------|-----------|
 |LogisticRegression |  0.9179 | 0.8189 |     0.0990|
 |LinearSVC          |  0.8916 | 0.8167 |     0.0750|
 |MLP                |  0.8172 | 0.7889 |     0.0283|
