@@ -3,6 +3,7 @@
 Machine learning project for the **Kaggle Comment Category Prediction Challenge**, finished as part of the **MLP (Machine Learning Practice) Project coursework for the BS Data Science from IIT Madras**.
 Completed in Term 4 of the Diploma Level: **Jan 2026 - May 2026**
 
+Competition Link: https://www.kaggle.com/competitions/comment-category-prediction-challenge
 ## Overview
 
 The **Comment Category Prediction Challenge** focuses on predicting the final category assigned to user-generated comments on an online platform.
@@ -117,6 +118,8 @@ For text representation, the project uses **TF-IDF from scikit-learn** rather th
 |   └── submission.csv
 └── requirements.txt
 ```
+
+NOTE: data used for the above can be obtained at https://www.kaggle.com/competitions/comment-category-prediction-challenge/data
 
 ## Kaggle Competition
 
