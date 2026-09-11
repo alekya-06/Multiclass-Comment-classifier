@@ -1,7 +1,7 @@
 # Comment Category Prediction
 
 Machine learning project for the **Kaggle Comment Category Prediction Challenge**, finished as part of the **MLP (Machine Learning Practice) Project coursework for the BS Data Science from IIT Madras**.<br>
-Completed in Term 4 of the Diploma Level: **Jan 2026 - May 2026**.
+Completed in Term 4 of the Diploma Level: **Jan 2026 - March 2026**.
 
 Competition Link: https://www.kaggle.com/competitions/comment-category-prediction-challenge
 ## Overview
